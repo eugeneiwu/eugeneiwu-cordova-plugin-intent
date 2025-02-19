@@ -21,9 +21,9 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </config-file>
-        <config-file target="AndroidManifest.xml" platform="android" parent="/manifest" mode="merge">
+        <!--<config-file target="AndroidManifest.xml" platform="android" parent="/manifest" mode="merge">
             <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-        </config-file>
+        </config-file>-->
         <config-file target="AndroidManifest.xml" platform="android" parent="/manifest" mode="merge">
             <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
         </config-file>
