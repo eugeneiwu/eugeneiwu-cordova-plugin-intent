@@ -1,10 +1,10 @@
 {
-  "name": "com-darryncampbell-cordova-plugin-intent",
+  "name": "com-eugeneiwu-cordova-plugin-intent",
   "version": "2.2.0",
   "description": "General purpose intent shim layer for cordova appliations on Android.  Handles various techniques for sending and receiving intents.",
   "main": "intentShim.js",
   "cordova": {
-    "id": "com-darryncampbell-cordova-plugin-intent",
+    "id": "com-eugeneiwu-cordova-plugin-intent",
     "platforms": [
       "android"
     ]
@@ -18,6 +18,6 @@
 	"cordova-android",
     "Intent"
   ],
-  "author": "Darryn Campbell",
+  "author": "Darryn Campbell / Eugene Iwu",
   "license": "MIT"
 }
